@@ -1,0 +1,11 @@
+a.out
+main.c
+main.o
+major2
+makefile
+out.txt
+processor.c
+processor.h
+processor.o
+README.txt
+test.txt
